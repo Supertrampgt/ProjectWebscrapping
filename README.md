@@ -1,2 +1,2 @@
 # ProjectWebscrapping
-Este es un proyecto que realicé para mji formación de Científico de Datos
+Este es un proyecto que realicé para mi formación de Científico de Datos
